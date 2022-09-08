@@ -7,6 +7,3 @@ def find_even_index(array: list) -> int:
         ][0]
     except IndexError:
         return -1
-
-
-print(find_even_index([1, 2, 3, 4, 3, 2, 1]))
