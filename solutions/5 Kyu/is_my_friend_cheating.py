@@ -8,6 +8,3 @@ def remov_nb(n: int) -> list:
             possibilities.append((a, int(b)))
 
     return possibilities
-
-
-print(remov_nb(101))
