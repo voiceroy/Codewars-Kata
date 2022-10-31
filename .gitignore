@@ -1,5 +1,6 @@
 *.lock
 target/*
+*.pyc
 Rust/Solutions/*/*.toml
 Rust/Solutions/*/target
 Rust/Solutions/*/src/main.rs
