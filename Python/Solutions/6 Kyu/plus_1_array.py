@@ -1,4 +1,4 @@
-def up_array(arr: list):
+def up_array(arr: list) -> list | None:
     return (
         [
             int(x)
