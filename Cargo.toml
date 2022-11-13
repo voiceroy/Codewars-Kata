@@ -1,5 +1,6 @@
 [workspace]
 
 members = [
-    "Rust/Solutions/kyu_8"
+    "Rust/Solutions/kyu_8",
+    "Rust/Solutions/kyu_6"
 ]
