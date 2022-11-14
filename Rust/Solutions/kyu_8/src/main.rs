@@ -11,6 +11,7 @@ mod safen_user_input_part_I;
 mod simple_multiplication;
 mod squaring_an_argument;
 mod string_repeat;
+mod third_angle_of_a_triangle;
 mod what_is_between;
 mod will_you_make_it;
 mod you_cant_code_under_pressure_1;
