@@ -1,3 +1,4 @@
+mod basic_mathematical_operations;
 mod count_of_positives_sum_of_negatives;
 mod fake_binary;
 mod opposites_attract;
