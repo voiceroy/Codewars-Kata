@@ -1,5 +1,6 @@
 mod alternating_case;
 mod basic_mathematical_operations;
+mod convert_to_a_string_to_a_number;
 mod count_of_positives_sum_of_negatives;
 mod fake_binary;
 mod opposites_attract;
