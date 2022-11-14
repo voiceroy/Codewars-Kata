@@ -13,6 +13,7 @@ mod safen_user_input_part_I;
 mod simple_multiplication;
 mod squaring_an_argument;
 mod string_repeat;
+mod switch_it_up;
 mod third_angle_of_a_triangle;
 mod what_is_between;
 mod will_you_make_it;
