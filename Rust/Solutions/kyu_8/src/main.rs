@@ -5,6 +5,7 @@ mod convert_to_a_string_to_a_number;
 mod count_of_positives_sum_of_negatives;
 mod difference_of_volumes_of_cuboids;
 mod fake_binary;
+mod function_1_hello_world;
 mod grasshopper_basic_function_fixer;
 mod how_many_lightsabers_do_you_own;
 mod keep_hydrated;
