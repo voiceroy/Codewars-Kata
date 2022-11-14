@@ -1,5 +1,6 @@
 mod alternating_case;
 mod basic_mathematical_operations;
+mod calculate_bmi;
 mod convert_to_a_string_to_a_number;
 mod count_of_positives_sum_of_negatives;
 mod difference_of_volumes_of_cuboids;
