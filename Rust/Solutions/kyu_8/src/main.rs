@@ -12,6 +12,7 @@ mod keep_hydrated;
 mod opposites_attract;
 mod parse_nice_int_from_char_problem;
 mod reduce_but_grow;
+mod reversed_strings;
 mod safen_user_input_part_I;
 mod simple_multiplication;
 mod squaring_an_argument;
