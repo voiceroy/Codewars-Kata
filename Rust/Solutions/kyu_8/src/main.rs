@@ -7,6 +7,7 @@ mod difference_of_volumes_of_cuboids;
 mod fake_binary;
 mod grasshopper_basic_function_fixer;
 mod how_many_lightsabers_do_you_own;
+mod keep_hydrated;
 mod opposites_attract;
 mod parse_nice_int_from_char_problem;
 mod reduce_but_grow;
