@@ -7,6 +7,7 @@ mod convert_boolean_values_to_strings_yes_or_no;
 mod convert_to_a_string_to_a_number;
 mod count_of_positives_sum_of_negatives;
 mod difference_of_volumes_of_cuboids;
+mod dna_to_rna_conversion;
 mod fake_binary;
 mod find_multiples_of_a_number;
 mod function_1_hello_world;
