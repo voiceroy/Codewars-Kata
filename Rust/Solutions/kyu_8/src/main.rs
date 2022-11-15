@@ -9,6 +9,7 @@ mod fake_binary;
 mod find_multiples_of_a_number;
 mod function_1_hello_world;
 mod grasshopper_basic_function_fixer;
+mod grasshopper_messi_goals;
 mod how_many_lightsabers_do_you_own;
 mod keep_hydrated;
 mod opposites_attract;
