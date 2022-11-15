@@ -1,5 +1,6 @@
 mod alternating_case;
 mod basic_mathematical_operations;
+mod bin_to_decimal;
 mod calculate_average;
 mod calculate_bmi;
 mod convert_boolean_values_to_strings_yes_or_no;
