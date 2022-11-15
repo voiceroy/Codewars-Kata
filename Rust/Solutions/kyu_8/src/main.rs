@@ -14,6 +14,7 @@ mod grasshopper_basic_function_fixer;
 mod grasshopper_messi_goals;
 mod how_many_lightsabers_do_you_own;
 mod keep_hydrated;
+mod n_th_power;
 mod opposites_attract;
 mod parse_nice_int_from_char_problem;
 mod reduce_but_grow;
