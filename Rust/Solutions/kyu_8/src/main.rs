@@ -12,6 +12,7 @@ mod dna_to_rna_conversion;
 mod fake_binary;
 mod find_multiples_of_a_number;
 mod function_1_hello_world;
+mod get_character_from_ascii_value;
 mod grasshopper_basic_function_fixer;
 mod grasshopper_messi_goals;
 mod grasshopper_terminal_game_move_function;
