@@ -20,6 +20,7 @@ mod n_th_power;
 mod opposites_attract;
 mod parse_nice_int_from_char_problem;
 mod reduce_but_grow;
+mod removing_elements;
 mod reversed_sequence;
 mod reversed_strings;
 mod safen_user_input_part_I;
