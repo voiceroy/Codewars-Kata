@@ -15,6 +15,7 @@ mod grasshopper_basic_function_fixer;
 mod grasshopper_messi_goals;
 mod grasshopper_terminal_game_move_function;
 mod how_many_lightsabers_do_you_own;
+mod is_he_gonna_survive;
 mod keep_hydrated;
 mod n_th_power;
 mod opposites_attract;
