@@ -21,6 +21,7 @@ mod n_th_power;
 mod opposites_attract;
 mod parse_nice_int_from_char_problem;
 mod plural;
+mod quarter_of_the_year;
 mod reduce_but_grow;
 mod removing_elements;
 mod reversed_sequence;
