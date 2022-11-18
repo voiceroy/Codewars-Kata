@@ -19,6 +19,7 @@ mod keep_hydrated;
 mod n_th_power;
 mod opposites_attract;
 mod parse_nice_int_from_char_problem;
+mod plural;
 mod reduce_but_grow;
 mod removing_elements;
 mod reversed_sequence;
