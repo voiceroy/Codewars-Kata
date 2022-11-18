@@ -33,6 +33,7 @@ mod simple_multiplication;
 mod squaring_an_argument;
 mod string_repeat;
 mod switch_it_up;
+mod terminal_game_combat_function;
 mod third_angle_of_a_triangle;
 mod volume_of_a_cuboid;
 mod what_is_between;
