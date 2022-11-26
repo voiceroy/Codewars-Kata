@@ -13,6 +13,7 @@ mod dna_to_rna_conversion;
 mod fake_binary;
 mod fill_an_array_part_1;
 mod find_multiples_of_a_number;
+mod find_nearest_square_number;
 mod function_1_hello_world;
 mod get_character_from_ascii_value;
 mod grasshopper_basic_function_fixer;
