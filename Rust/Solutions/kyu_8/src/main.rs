@@ -5,6 +5,7 @@ mod calculate_average;
 mod calculate_bmi;
 mod contamination_string;
 mod convert_a_number_to_a_string;
+mod convert_a_string_to_an_array;
 mod convert_boolean_values_to_strings_yes_or_no;
 mod convert_to_a_string_to_a_number;
 mod count_of_positives_sum_of_negatives;
