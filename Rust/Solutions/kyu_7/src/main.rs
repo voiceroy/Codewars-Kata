@@ -1,4 +1,5 @@
 mod alphabet_summary;
+mod build_a_square;
 mod check_the_exam;
 mod deodorant_evaporator;
 mod fix_string_case;
