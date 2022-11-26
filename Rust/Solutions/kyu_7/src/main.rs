@@ -1,3 +1,4 @@
+mod alphabet_summary;
 mod check_the_exam;
 mod deodorant_evaporator;
 mod fix_string_case;
