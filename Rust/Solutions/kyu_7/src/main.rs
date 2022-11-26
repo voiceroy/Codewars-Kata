@@ -3,6 +3,7 @@ mod build_a_square;
 mod check_the_exam;
 mod deodorant_evaporator;
 mod fix_string_case;
+mod nth_smallest_element;
 mod ordered_count_of_characters;
 mod power_of_two;
 mod sort_numbers;
