@@ -3,6 +3,7 @@ mod basic_mathematical_operations;
 mod bin_to_decimal;
 mod calculate_average;
 mod calculate_bmi;
+mod contamination_string;
 mod convert_a_number_to_a_string;
 mod convert_boolean_values_to_strings_yes_or_no;
 mod convert_to_a_string_to_a_number;
