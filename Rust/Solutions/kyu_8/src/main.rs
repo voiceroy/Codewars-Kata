@@ -30,6 +30,7 @@ mod removing_elements;
 mod reversed_sequence;
 mod reversed_strings;
 mod safen_user_input_part_I;
+mod school_paperwork;
 mod simple_multiplication;
 mod squaring_an_argument;
 mod string_repeat;
