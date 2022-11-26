@@ -12,6 +12,7 @@ mod difference_of_volumes_of_cuboids;
 mod dna_to_rna_conversion;
 mod fake_binary;
 mod fill_an_array_part_1;
+mod find_maximum_and_minimum_values_of_a_list;
 mod find_multiples_of_a_number;
 mod find_nearest_square_number;
 mod function_1_hello_world;
