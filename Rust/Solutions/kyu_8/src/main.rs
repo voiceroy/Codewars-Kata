@@ -10,6 +10,7 @@ mod count_of_positives_sum_of_negatives;
 mod difference_of_volumes_of_cuboids;
 mod dna_to_rna_conversion;
 mod fake_binary;
+mod fill_an_array_part_1;
 mod find_multiples_of_a_number;
 mod function_1_hello_world;
 mod get_character_from_ascii_value;
