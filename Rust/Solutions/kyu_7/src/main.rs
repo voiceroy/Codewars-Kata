@@ -12,4 +12,5 @@ mod sum_of_a_sequence;
 mod sum_of_angles;
 mod sum_of_cubes;
 mod the_highest_profit_wins;
+mod vowel_count;
 fn main() {}
