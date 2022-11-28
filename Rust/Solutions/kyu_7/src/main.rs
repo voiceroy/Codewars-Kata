@@ -11,6 +11,7 @@ mod sort_out_the_men_from_boys;
 mod sum_of_a_sequence;
 mod sum_of_angles;
 mod sum_of_cubes;
+mod switcheroo;
 mod the_highest_profit_wins;
 mod vowel_count;
 fn main() {}
