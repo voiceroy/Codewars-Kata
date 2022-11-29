@@ -1,6 +1,7 @@
 mod alphabet_summary;
 mod build_a_square;
 mod check_the_exam;
+mod count_the_digit;
 mod deodorant_evaporator;
 mod fix_string_case;
 mod nth_smallest_element;
